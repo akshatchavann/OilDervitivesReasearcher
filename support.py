@@ -12,7 +12,6 @@ loader = UnstructuredFileLoader("output.txt")
 
 data = loader.load()
 
-print(data)
 
 
 
